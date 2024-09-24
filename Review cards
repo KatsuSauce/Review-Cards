@@ -1,7 +1,7 @@
 <!DOCTYPE html>
  <html lang="en-US">
    <head>
-    <title> Cards</title> <link 
+    <title> Cards</title> <link rel="stylesheet" type="text/css" href="style.css"/>
    </head>
    <body>
       <title><h1>Cards></h1></title>
@@ -12,7 +12,38 @@
             </p>
      </div>
       <section>
-     
+     <div class="can">
+    What sound do fishes make
+    <p class="pan"> mop </p>
+</div>
+<div class="can">
+    What sound do bee make?
+    <p class="pan"> BUZZZ</p>
+</div>
+<div class="can">
+    20/2
+    <p class="pan"> 10</p>
+</div>
+<div class="can">
+    5x11
+    <p class="pan">  55</p>.
+</div>
+<div class="can">
+    142/4=
+    <p class="pan"> 38</p>
+</div>
+<div class="can">
+    2+3=
+    <p class="pan"> 5</p>
+</div>
+<div class="can">
+    2+2=
+    <p class="pan"> 4</p>
+</div>
+<div class="can">
+    What the magic word
+    <p class="pan"> Please </p>
+     </div>
    </section
    </body>
  </html>  
